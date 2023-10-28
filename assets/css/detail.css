@@ -1,0 +1,17 @@
+.content-head{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.content-head .number{
+    color: #000;
+    opacity: .3;
+    text-align: right;
+    font-size: .625rem;
+}
+    
+
